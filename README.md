@@ -1,8 +1,8 @@
 <div align="center">   
   
-# HumanDreamer: Generating Controllable Human-Motion Videos via Decoupled Generation
+# WonderTurbo: Generating Interactive 3D World in 0.72 Seconds
 </div>
 
  
-## [Project Page](https://humandreamer.github.io/) | [Paper]()
+## [Project Page](https://wonderturbo.github.io) | [Paper]()
 
